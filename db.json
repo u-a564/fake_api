@@ -1,7 +1,7 @@
 {
     "applicants":[
     {
-        "id":1
+        "id":1,
         "applicant_code": 12345,
         "abbreviate_for_applicant": "MQ",
         "country_of_applicant": "tw",
